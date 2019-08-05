@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Mon Aug 05 16:20:42 WAT 2019
+1.base=C\:\\Users\\Eng_PC\\Desktop\\03\\demos\\ALCChallenge2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=C\:\\Users\\Eng_PC\\Desktop\\03\\demos\\ALCChallenge2\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.path=classes.dex
